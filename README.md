@@ -29,3 +29,23 @@ Docker = commande de base
 
 Docker exec : mettre -it si on veut interagir avec l’outil
 
+
+## EXEMPLE ##
+
+- git clone https://github.com/docker/getting-started.git
+
+(ls)
+
+- cd getting-started
+
+(ls)
+
+- cd app
+
+(ls)
+
+- touch Dockerfile
+
+(ls)
+
+- nano/Vim Dockerfile
